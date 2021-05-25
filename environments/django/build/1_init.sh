@@ -1,1 +1,1 @@
-pip install -y django
+yes | pip install django
