@@ -1,0 +1,11 @@
+{
+  "title": "Python - Django ORM - advanced queries",
+  "description": "Advanced queries with Django ORM",
+  "courses": [
+    {
+      "course_id": "example1",
+      "title": "First Example",
+      "description": "my first example"
+    }
+  ]
+}
