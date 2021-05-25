@@ -16,6 +16,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "django"
+    "imageid": "django:latest"
   }
 }
